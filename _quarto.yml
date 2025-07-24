@@ -19,7 +19,7 @@ website:
    
   
   navbar:
-    logo: "images/USH0149.png"
+    logo: "logo/UOE_Logo_Black (1).jpg"
     left:
       - href: index.qmd
         text: Home
