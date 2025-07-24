@@ -16,8 +16,8 @@ website:
   repo-actions:
   - edit
   - issue
-  google-analytics: 
-    tracking-id: "G-KBY6B9VX9V"
+   
+  
   navbar:
     logo: "images/USH0149.png"
     left:
