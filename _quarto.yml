@@ -11,7 +11,7 @@ project:
 
 website:
   title: "Responsible Research Metrics Self Study Module"
-  repo-url: "https://h-crago.github.io/responsible-metrics-essex/"
+  repo-url: "https://h-crago.github.io/responsible-metrics-essex"
   repo-branch: main
   repo-actions:
   - edit
