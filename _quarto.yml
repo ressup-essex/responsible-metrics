@@ -16,8 +16,6 @@ website:
   repo-actions:
   - edit
   - issue
-   
-  
   navbar:
     logo: "logo/UOE_Logo_Black (1).jpg"
     left:
