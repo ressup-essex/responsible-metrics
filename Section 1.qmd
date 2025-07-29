@@ -31,7 +31,7 @@ Transparency in metrics means having an explanation in clear, simple language to
 
 Essentially what, where and when: 
 
--   What metrics were used? 
+-   What research metrics were used? 
 -   Where did the data come from (sources)? 
 -   When was the assessment made? – The assessment is only a snapshot in time; data sources are updated as indicators mature. 
 
