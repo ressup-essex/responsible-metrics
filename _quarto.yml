@@ -9,6 +9,8 @@ project:
     - Section 4.qmd
     - about.qmd
 
+site-url: https://ressup-essex.github.io/responsible-metrics
+
 website:
   title: "Responsible Research Metrics Self Study Module"
   repo-url: "https://github.com/ressup-essex/responsible-metrics"
