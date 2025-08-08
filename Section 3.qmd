@@ -35,11 +35,11 @@ You can obtain metrics by using an indexing database such as:
 -   [Google Scholar](http://scholar.google.co.uk/citations?view_op=top_venues&hl=en){target="_blank"}.\*
 -   [Open Alex](https://openalex.org/){target="_blank"}.\*
 
-Some of these databases are free to use with an account(\*) and some of these are accessible via University of Southampton subscriptions(^+^). They all have a search function which will allow you to search for your name and/or Researcher ID such as [ORCID](https://support.orcid.org/hc/en-us){target="_blank"} and from there you can review how your research has been indexed by these systems. 
+Some of these databases are free to use with an account(\*) and some of these are accessible via University of Essex subscriptions(^+^). They all have a search function which will allow you to search for your name and/or Researcher ID such as [ORCID](https://support.orcid.org/hc/en-us){target="_blank"} and from there you can review how your research has been indexed by these systems. 
 
 Using more than one source of metrics is a good practice as systems index at different rate and speeds. 
 
-Contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services){target="_blank"} for support, with as much notice as possible. 
+Contact the Research Support Team via ressup@essex.ac.uk for support, with as much notice as possible. 
 
 ### **Limitations of Metrics** 
 
@@ -105,11 +105,11 @@ Complete further sections
 
 -   Section 4 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
 
-Read the [University responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"}
+Read the [University responsible metrics policy](https://www.essex.ac.uk/-/media/documents/directories/reo/the-responsible-use-of-metrics-at-the-university-of-essex.pdf){target="_blank"}
 
-Visit our [Libguide on Metrics](https://library.soton.ac.uk/bibliometrics){target="_blank"}
+Visit our [Libguide on Metrics](https://library.essex.ac.uk/research-visibility/intro){target="_blank"}
 
-Specific question? Contact us at eprints\@soton.ac.uk
+Specific question? Contact us at ressup@essex.ac.uk
 
 Further Resources external to the University:
 
