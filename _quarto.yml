@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: _site   # GitHub Actions will deploy this folder
   render: 
     - index.qmd
     - Section 1.qmd
@@ -9,15 +9,19 @@ project:
     - Section 4.qmd
     - about.qmd
 
-site-url: https://ressup-essex.github.io/responsible-metrics
-
 website:
   title: "Responsible Research Metrics Self Study Module"
+
+  # GitHub repository details (adds "Edit" and "Report Issue" links)
   repo-url: "https://github.com/ressup-essex/responsible-metrics"
   repo-branch: main
   repo-actions:
-  - edit
-  - issue
+    - edit
+    - issue
+
+  # IMPORTANT: This tells Quarto the live URL of your site
+  site-url: "https://ressup-essex.github.io/responsible-metrics"
+
   navbar:
     logo: "images/USH0149.png"
     left:
@@ -58,4 +62,3 @@ format:
     toc: true
 
 editor: visual
-
