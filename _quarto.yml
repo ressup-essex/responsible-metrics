@@ -11,13 +11,11 @@ project:
 
 website:
   title: "Responsible Research Metrics Self Study Module"
-  repo-url: "https://github.com/UniSotonLibrary/responsible-metrics/"
+  repo-url: "https://github.com/ressup-essex/responsible-metrics"
   repo-branch: main
   repo-actions:
   - edit
   - issue
-  google-analytics: 
-    tracking-id: "G-KBY6B9VX9V"
   navbar:
     logo: "images/USH0149.png"
     left:
