@@ -30,7 +30,7 @@ If you need metrics to help you in your decision-making process there are severa
 -   Define what you mean by ‘best’ or ‘top’ publication(s) so researchers can focus their statements/evidence and ensure that you are comparing the same thing.
 -   Specify a particular source to use or a specific metrics to use.
     -   Some metrics are software/database specific, some of which are available via subscription only and therefore may not be available to all candidates.
--   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at [eprints\@soton.ac.uk](mailto:eprints@soton.ac.uk) to discuss.
+-   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at [ressup@essex.ac.uk](mailto:ressup@essex.ac.uk) to discuss.
 
 ### **Limitations of metrics and things to be aware of**
 
