@@ -79,7 +79,7 @@ DORA focuses particularly on the use of journal-based metrics. Its key tenet is 
 
 DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
 
-The University of Southampton is a signatory of DORA.
+The University of Essex is a signatory of DORA.
 
 [**CoARA (Coalition of Advancing Research Assessment)**](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf){target="_blank"} 
 
