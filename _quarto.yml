@@ -18,7 +18,7 @@ website:
     - edit
     - issue
   navbar:
-    logo: "images/Essex PNG.png"
+    logo: "images/Essex.png"
     left:
       - href: index.qmd
         text: Home
