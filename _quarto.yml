@@ -45,7 +45,7 @@ website:
         text: "About"
   back-to-top-navigation: true
   page-navigation: true  
-  page-footer: "Created by the Kate Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library shared under a CC BY licence"
+  page-footer: "Adapted by Hannah Crago, at the University of Essex, from the module created by the Kate Lapage, Clare Hemmings and Lorrayne Smith @ University of Southampton Library, shared under a CC BY licence"
 
 format:
   html:
