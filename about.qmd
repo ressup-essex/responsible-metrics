@@ -16,4 +16,5 @@ Links provided to sites external to the University of Southampton were accurate 
 
 This module is shared under a CC BY license so that it may be adapted to suit other institutions' policies. We ask that this page remains with further information by the adapting organisation added beneath. The module has been developed in R using Quarto and is available on GitHub for remixing <https://github.com/UniSotonLibrary/responsible-metrics/>
 
-This version of the module has been adapted from the above, and is also shared under a CC BY licence. this adapation was created by Hannah Crago, Open Research Development Librarian at the University of Essex.
+This version of the module has been adapted from the above, and is also shared under a CC BY licence. This adapation was created by Hannah Crago, Open Research Development Librarian at the University of Essex.
+
