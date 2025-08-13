@@ -39,7 +39,7 @@ Some of these databases are free to use with an account(\*) and some of these ar
 
 Using more than one source of metrics is a good practice as systems index at different rate and speeds. 
 
-Contact the Research Support Team via ressup@essex.ac.uk for support, with as much notice as possible. 
+Contact the Research Support Team via [ressup@essex.ac.uk](mailto:ressup@essex.ac.uk) for support, with as much notice as possible. 
 
 ### **Limitations of Metrics** 
 
