@@ -57,7 +57,7 @@ Contact the Research Support Team via [ressup@essex.ac.uk](mailto:ressup@essex.a
 -   You could use metrics to evidence statements you make about your research.
 -   You may be asked to provide a list such as your 'top' or 'best' papers.
 
-If you use metrics you need to use them responsibly, for example, using the correct type of metric for your purpose. 
+If you use metrics you need to use them responsibly.  There are many different metrics, for many different purposes, from many different sources.  When you make your assessment you should use the most appropriate metric according to your needs. Below you'll find examples (both good and bad) of how some of these metrics could be used to make statements about your research. 
 
 ### **Examples** 
 
@@ -77,9 +77,9 @@ The statement could be made even better by stating the date you checked the numb
 
 **Example of best use**  
 
-*\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I have been asked by several news agencies to provide commentary on similar news stories thereby contributing to knowledge exchange and public engagement.*  
+*[citation of paper] is my top performing paper according to Scopus on [date]. It has been cited 150 times and has a field weighted citation index of 4.3 (1 being average). It has been cited by [policy document] and following its publication I have been asked by several news agencies to provide commentary on similar news stories, thereby contributing to knowledge exchange and public engagement.*  
 
-Why this is good – You’ve given a source and date for your metric, you’ve used a normalised metric which makes for a fairer comparison. You’ve related your article to real world impact and engagement. 
+Why this is good – You’ve given a source and date for your metrics, you’ve used multiple metrics including a normalised metric which makes for a fairer comparison. You’ve related your article to real world impact and engagement. 
 
 ### **How to – Identifying your 'best' publications** 
 
@@ -104,6 +104,8 @@ Thank you for taking the time to complete this section of the course. If you nee
 Complete further sections
 
 -   Section 4 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
+
+Test your knowledge in our [short quiz](https://forms.office.com/e/zJv4TEmwaP){target="_blank"}
 
 Read the [University responsible metrics policy](https://www.essex.ac.uk/-/media/documents/directories/reo/the-responsible-use-of-metrics-at-the-university-of-essex.pdf){target="_blank"}
 
